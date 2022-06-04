@@ -9,4 +9,4 @@ My Name is Nikos Serepas and I am currently studying Computer Science and Teleco
 ![Nikos' GitHub stats](https://github-readme-stats.vercel.app/api?username=nikos19&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikos19&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikos19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
